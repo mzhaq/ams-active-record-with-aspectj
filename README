@@ -1,1 +1,3 @@
-This file was created by IntelliJ IDEA 12.0.4 for binding GitHub repository
+ams-active-record-with-aspectj is a simple maven project to try out active record pattern similar to spring roo. It uses
+spring, jpa hibernate, aspectj, jquery and css. Also uses oracle or h2 with oracle mode jndi data source. Sample jndi
+configs for h2 with oracle mode for both tomcat and jboss are in jndi-config directory.

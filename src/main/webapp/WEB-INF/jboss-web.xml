@@ -1,0 +1,11 @@
+<!DOCTYPE jboss-web PUBLIC
+        "-//JBoss//DTD Web Application 5.0//EN"
+        "http://www.jboss.org/j2ee/dtd/jboss-web_5_0.dtd">
+
+<jboss-web>
+    <context-root>/ams</context-root>
+    <resource-ref>
+        <res-ref-name>jdbc/amsDS</res-ref-name>
+        <jndi-name>java:jboss/jdbc/amsDS</jndi-name>
+    </resource-ref>
+</jboss-web>

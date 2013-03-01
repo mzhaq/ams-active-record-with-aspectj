@@ -1,0 +1,6 @@
+<link rel="stylesheet" type="text/css" href="<c:url value='/resources/css/ams-menu-style.css'/>" />
+<link rel="stylesheet" type="text/css" href="<c:url value='/resources/css/ams-form-style.css'/>" />
+
+<script type="text/javascript" src="<c:url value='/resources/js/jquery-1.7.2.js'/>"></script>
+<script type="text/javascript" src="<c:url value='/resources/js/amsMenu.js'/>"></script>
+<script type="text/javascript" src="<c:url value='/resources/js/ams.js'/>"></script>

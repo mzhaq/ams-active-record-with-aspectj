@@ -1,0 +1,7 @@
+<div class="menu">
+	<ul>    
+		<li><a href="/ams/searchPerson">Search<span class="arrow"></span></a></li>
+		<li><a href="/ams/createPerson">Add<span class="arrow"></span></a></li>
+        <li><a href="<c:url value="/j_spring_security_logout" />">Logout<span class="arrow"></span></a></li>
+	</ul>
+</div>
